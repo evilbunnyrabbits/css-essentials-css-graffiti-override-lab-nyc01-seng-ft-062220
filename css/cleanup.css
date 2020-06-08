@@ -22,6 +22,7 @@
 #wall .parent :last-child #tag-6 {
   display: none;
 }
-#tag-7 {
+
+body #wall div.parent div > #tag-7.slick {
   display: none;
 }
