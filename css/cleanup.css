@@ -11,9 +11,10 @@
 .slick-wicked #tag-3 {
   display: none;
 }
-#tag-4 {
+.parent > #tag-4 {
   display: none;
 }
+
 #tag-5 {
   display: none;
 }
