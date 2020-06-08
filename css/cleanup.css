@@ -19,7 +19,7 @@
 #wall .parent #tag-5.slick {
   display: none;
 }
-#tag-6 {
+#wall .parent :last-child #tag-6 {
   display: none;
 }
 #tag-7 {
